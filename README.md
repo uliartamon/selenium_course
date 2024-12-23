@@ -1,1 +1,1 @@
-# tests
+In this repository, I'm going to commit my study QA projects.
